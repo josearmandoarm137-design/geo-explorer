@@ -1,6 +1,6 @@
-const { getChallenge } = require("../commands/challenge");
+const { getTrack } = require("../commands/track");
 
-const resultado = getChallenge("Python", "beginner");
+const resultado = getTrack("Python", "beginner");
 
-console.log("=== TESTE DO CHALLENGE ===");
+console.log("=== TESTE DO GEO-EXPLORER ===");
 console.log(resultado);
