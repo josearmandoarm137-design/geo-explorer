@@ -1,0 +1,37 @@
+{
+  "tracks": [
+    {
+      "technology": "Python",
+      "level": "beginner",
+      "modules": [
+        "Introdução ao Python",
+        "Variáveis e tipos de dados",
+        "Estruturas condicionais",
+        "Laços de repetição",
+        "Funções"
+      ]
+    },
+    {
+      "technology": "JavaScript",
+      "level": "beginner",
+      "modules": [
+        "Introdução ao JavaScript",
+        "Variáveis",
+        "Funções",
+        "Arrays",
+        "Objetos"
+      ]
+    },
+    {
+      "technology": "Java",
+      "level": "intermediate",
+      "modules": [
+        "Fundamentos do Java",
+        "Programação Orientada a Objetos",
+        "Herança",
+        "Interfaces",
+        "Tratamento de exceções"
+      ]
+    }
+  ]
+}
